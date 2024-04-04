@@ -6,7 +6,7 @@ Olá, bem-vindos ao meu perfil! 👋
 
 ## Aprendendo
 
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
 - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) JavaScript
 - ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg) Flask
 - ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg) SQLite
