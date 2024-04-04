@@ -1,26 +1,42 @@
 # João Pedro Bertelli
 
-Olá, bem-vindos ao meu perfil! 👋
+Bem-vindo ao meu perfil! 👋 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação.
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas.
+## Habilidades e Tecnologias
 
-## Aprendendo
+- 🖥️ Python | JavaScript | SQL
+- 🌐 Desenvolvimento Web com Flask e React
+- 🛠️ Git | Docker | RESTful APIs
+- 📊 Análise de Dados e Visualização
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"> Python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30" height="30"> Flask
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30"> SQLite
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"> React
+## Projetos Destacados
+
+- 🚀 Desenvolvimento de um Sistema de Gestão de Tarefas com Flask
+- 💼 Criação de um Portfólio Pessoal Interativo com React
+- 📈 Análise de Dados de Vendas com Python e Pandas
 
 ## Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapBertelli&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotapBertelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapBertelli&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Utilizadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotapBertelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
 </div>
 
 ## Entre em Contato
 
-- [GitHub](https://github.com/JotapBertelli)
-- [LinkedIn](seu_linkedin)
-- [Website](seu_website)
+- 📧 Email: joaopedrobertelli@example.com
+- 💼 LinkedIn: [João Pedro Bertelli](seu_linkedin)
+- 🔗 Website: [www.joaopedrobertelli.com](seu_website)
+- 📱 Telefone: +55 12 3456-7890
+
+## Experiência Profissional
+
+### Desenvolvedor Web (Estagiário) | Empresa XYZ
+- Desenvolvimento e manutenção de aplicações web utilizando Flask e React.
+- Colaboração em equipe ágil utilizando metodologia SCRUM.
+- Implementação de testes unitários e integração contínua com GitLab CI/CD.
+
+## Educação
+
+- **Análise e Desenvolvimento de Sistemas** - Instituto de Tecnologia ABC (Previsão de Conclusão: Dezembro de 2024)
+- **Curso Técnico em Informática** - Escola Técnica DEF (Concluído em Julho de 2021)
