@@ -44,7 +44,7 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
 ---
 
 ## 🧑‍💻 **Projetos Recentes**  
-- 🌟 **[NutriCalc App](#)**: Um app para controle nutricional, com API integrada para cálculo de calorias.  
+- 🌟 **[Moda E Estilo](#)**: Um app para controle de estoque, com CRUD completo.  
 - 🌟 **[DevBlog](#)**: Um blog minimalista para desenvolvedores compartilharem ideias e conhecimento.  
 
 ---
