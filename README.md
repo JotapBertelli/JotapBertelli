@@ -29,9 +29,8 @@ Meu objetivo é criar soluções tecnológicas que impactem positivamente o mund
 
 ## 📫 Como me encontrar:
 
-- 🌐 **[Meu LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui/)**  
-- 💼 **[Meu Portfólio](https://seuportfolio.com)**  
-- 📧 **Contato:** joao.bertelli@email.com  
+- 🌐 **[Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-bertelli-b68ba6275/)**  
+- 📧 **Contato:** jpbertelli10@gmail.com  
 
 ---
 
