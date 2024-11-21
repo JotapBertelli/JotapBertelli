@@ -56,7 +56,3 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
 
 ---
 
-### 🌈 **Minha Filosofia**  
-> **"A tecnologia não é o fim, mas o meio para criar um mundo melhor."** ✨  
-
-### 🌟 Vamos juntos construir o futuro!
