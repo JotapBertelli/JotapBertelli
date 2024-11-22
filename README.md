@@ -26,7 +26,12 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React Native" />
   <img src="https://img.icons8.com/ios-filled/100/expo.png" width="80" height="80" alt="Expo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
+  <img src="https://www.pygame.org/docs/_static/pygame_logo_white.png" width="80" height="80" alt="Pygame" />
+  <img src="https://img.icons8.com/external-outline-juicy-fish/100/external-api-cloud-computing-outline-outline-juicy-fish.png" width="80" height="80" alt="API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" />
 </div>
+
 
 
 
