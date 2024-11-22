@@ -44,8 +44,8 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
 ---
 
 ## 🧑‍💻 **Projetos Recentes**  
-- 🌟 **[Moda E Estilo](#)**: Um app para controle de estoque, com CRUD completo.  
-- 🌟 **[DevBlog](#)**: Um blog minimalista para desenvolvedores compartilharem ideias e conhecimento.  
+- 🌟 **[Moda E Estilo](#)**: Um sistema para controle e gerenciamento de estoque, com CRUD completo.  
+
 
 ---
 
