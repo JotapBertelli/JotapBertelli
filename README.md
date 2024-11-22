@@ -52,7 +52,7 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
 ## 📬 **Vamos nos conectar?**  
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-bertelli-b68ba6275/)**  
 - 📧 **Contato:** [jpbertelli10@gmail.com](mailto:jpbertelli10@gmail.com)  
-- 📱 **TikTok:** [@manoberts07](https://www.tiktok.com/@manoberts07)  
+
 
 ---
 
