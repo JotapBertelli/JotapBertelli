@@ -1,4 +1,3 @@
-Aqui está uma versão mais atraente, moderna e inovadora do seu perfil no GitHub:
 
 ---
 
