@@ -23,7 +23,12 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
-</div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React Native" />
+  <img src="https://img.icons8.com/ios-filled/100/expo.png" width="80" height="80" alt="Expo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
+  <img src="https://www.pygame.org/pygame_logo.png" width="80" height="80" alt="Pygame" />
+</div>
+
 
 ---
 
