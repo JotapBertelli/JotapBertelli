@@ -2,15 +2,12 @@
 ---
 
 # 👋 **Olá, eu sou João Pedro Bertelli!**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senai 990 "Avak Bedouian"**  
+🎓 Estudante de **Engenharia de Software**  
 💻 Apaixonado por **tecnologia**, **programação** e **inovação**  
 🚀 Transformando ideias em **soluções impactantes** para o mundo  
 
 ---
 
-## 🌟 **Sobre Mim**  
-Sou movido pela curiosidade e pelo desejo de criar **soluções tecnológicas** que inspirem mudanças.  
-Acredito que **cada linha de código é uma oportunidade de transformar vidas**. 🌍✨  
 
 ---
 
@@ -49,12 +46,6 @@ Acredito que **cada linha de código é uma oportunidade de transformar vidas**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotapBertelli&layout=compact&langs_count=7&theme=radical" alt="Top Langs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotapBertelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>  
-
----
-
-## 🧑‍💻 **Projetos Recentes**  
-- 🌟 **[Moda E Estilo](#)**: Um sistema para controle e gerenciamento de estoque, com CRUD completo.  
-
 
 ---
 
