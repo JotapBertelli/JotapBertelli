@@ -33,7 +33,6 @@ Como Engenheiro de Software em formação, meu foco é a arquitetura e o desenvo
 - Otimização de performance em aplicações utilizando **React**.
 - Estudo de princípios **SOLID** e **Clean Architecture** para código de alta manutenção.
 
-    </td>
     <td valign="top" width="35%">
 
 ### Estatísticas
