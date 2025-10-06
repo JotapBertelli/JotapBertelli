@@ -30,7 +30,7 @@ Como Engenheiro de Software em formação, meu foco é a arquitetura e o desenvo
 
 ### Foco Atual
 - 深化 **Arquitetura de Microserviços** e padrões de comunicação.
-- Otimização de performance em aplicações **React Native**.
+- Otimização de performance em aplicações utilizando **React**.
 - Estudo de princípios **SOLID** e **Clean Architecture** para código de alta manutenção.
 
     </td>
