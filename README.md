@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>João Pedro Bertelli</strong></h1>
-  <h3>Software Engineer | Back-end & Mobile Developer</h3>
+  <h3>Software Engineer | Front End, Back-end & Mobile Developer</h3>
 </div>
 
 <div align="center">
